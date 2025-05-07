@@ -14,3 +14,12 @@ This project aims to provide an intuitive interface for monitoring environmental
 # 🛠️ Prerequisites
 Before setting up the project, ensure you have the following:
 Python 3.6 or higher: Check your Python version with python --version.
+
+# 🛠️ Dependencies
+The project relies on the following key libraries(see requirements.txt for the full list):
+Streamlit 1.36.0: Web framework for the app interface.
+Plotly 5.14.1: For creating interactive visualizations.
+pandas 2.0.3: For data manipulation and handling time-series data.
+Kaleido 0.2.1: For exporting Plotly graphs as images (used in PDF reports).
+numpy 1.24.4: For numerical operations.
+reportlab 4.0.9: For generating PDF reports.

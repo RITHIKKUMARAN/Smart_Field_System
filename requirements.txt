@@ -1,0 +1,7 @@
+# Core dependencies for the Smart IoT System project
+streamlit==1.36.0  # Streamlit version compatible with Python 3.6+ and Plotly 5.14.1
+plotly==5.14.1  # Plotly version for visualizations
+pandas==2.0.3  # For data manipulation (compatible with Python 3.6+)
+kaleido==0.2.1  # For exporting Plotly graphs as images
+numpy==1.24.4  # For numerical operations
+reportlab==4.0.9  # For PDF generation
